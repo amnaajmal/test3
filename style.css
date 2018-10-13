@@ -1,0 +1,39 @@
+/* write your CSS here */
+body{
+	padding: 1em;
+	margin:1em;
+	color: black;
+}
+.alert-primary {
+	text-align: center !important;
+}
+.card-text{
+	padding: 1em;
+}
+
+.logo{
+	height: 50px;
+	width: 50px;
+}
+.container{
+	width: 50%;
+	display: table;
+}
+.head{
+	display: flex;
+	flex-direction: column;
+}
+section{
+	display: -webkit-inline-box;
+
+}
+
+.text-muted {
+	color: #101820 !important;
+}
+i{
+	color: #85ac6d;
+}
+button,input{
+	margin: 0px !important;
+}
